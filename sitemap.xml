@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://MrAmfix.github.io/TonikX-ITMO_ICT_WebDevelopment_2025-2026/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-06</lastmod>
     </url>
     <url>
          <loc>https://MrAmfix.github.io/TonikX-ITMO_ICT_WebDevelopment_2025-2026/report_1/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-06</lastmod>
     </url>
     <url>
          <loc>https://MrAmfix.github.io/TonikX-ITMO_ICT_WebDevelopment_2025-2026/report_2/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-06</lastmod>
+    </url>
+    <url>
+         <loc>https://MrAmfix.github.io/TonikX-ITMO_ICT_WebDevelopment_2025-2026/report_3/</loc>
+         <lastmod>2025-10-06</lastmod>
     </url>
 </urlset>
